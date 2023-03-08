@@ -1,2 +1,2 @@
-#Portfolio/Personal Project made with Three.js and React
+Portfolio/Personal Project made with Three.js and React
 Live Website: www.suryansh.info
