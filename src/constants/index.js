@@ -183,7 +183,7 @@ const testimonials = [
     designation: "Software Development Engineer",
     company: "Amazon",
     image:
-      "https://media.licdn.com/dms/image/D4D35AQF2b8AywmJQgw/profile-framedphoto-shrink_400_400/0/1635598643815?e=1681398000&v=beta&t=05AJiQk-UPY0ZM3uQUgzrTpHPCB3Iz43arn_SntZLQ0",
+      "https://media.licdn.com/dms/image/D4D35AQF2b8AywmJQgw/profile-framedphoto-shrink_400_400/0/1635598643815?e=1684184400&v=beta&t=Ml2qB2nPAvpCLJMKlIqbqUqHK1WujTrBgy5Lwww-Q3Q",
   },
   {
     testimonial:
@@ -216,7 +216,7 @@ const projects = [
       },
     ],
     image: DTrack,
-    source_code_link: "https://github.com/suryanshchauhan",
+    source_code_link: "https://github.com/suryanshchauhan/DTrack",
   },
   {
     name: "Today I Learned",
